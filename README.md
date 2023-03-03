@@ -1,4 +1,4 @@
-### Hi there 👋
+Привет, меня зовут Артур! 👋
 
 <!--
 **2Archik/2Archik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
