@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Технологии:
+<h2 align="center">My skills</h2>
 
 <div align="center">
 
