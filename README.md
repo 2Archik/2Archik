@@ -18,12 +18,25 @@
 
 ### 💻 Технологии:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+<div align="center">
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
+  ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
+  ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+  ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
+  ![Scss](https://img.shields.io/badge/scss-20232A?style=for-the-badge&logo=sass)
+  ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
+  ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
+  ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
+  ![GraphQL](https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab)
+  ![Babel](https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel)
+  ![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)
+  ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
+  ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
+  ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+
 </div>
 
