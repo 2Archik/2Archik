@@ -10,7 +10,7 @@
 
 ### 🤝 Социальные сети:
 
-<a href="https://https://vk.com/id163802415" target="_blank">
+<a href="https://vk.com/id163802415" target="_blank">
    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
 </a>
 
@@ -31,12 +31,14 @@
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
   ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
-  ![GraphQL](https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab)
   ![Babel](https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel)
   ![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongoDB)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=PostgreSQL)
+  ![AntDesign](https://img.shields.io/badge/AntDesign-20232A?style=for-the-badge&logo=AntDesign)
 
 </div>
 
