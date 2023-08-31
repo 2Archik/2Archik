@@ -39,6 +39,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongoDB)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=PostgreSQL)
   ![AntDesign](https://img.shields.io/badge/AntDesign-20232A?style=for-the-badge&logo=AntDesign)
+  ![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=Vite)
 
 </div>
 
