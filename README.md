@@ -1,12 +1,12 @@
 # Привет, меня зовут Артур! 👋
 
----
 
-### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+### :man_technologist: React Frontend Developer
 
----
+Активно ищу работу<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+
+
 
 ### 🤝 Социальные сети:
 
@@ -14,7 +14,7 @@
    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
 </a>
 
----
+
 
 <h2 align="center">My skills</h2>
 
