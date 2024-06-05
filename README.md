@@ -2,9 +2,7 @@
 
 
 
-### :man_technologist: React Frontend Developer
-
-Активно ищу работу<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+### :man_technologist: React Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 
 
